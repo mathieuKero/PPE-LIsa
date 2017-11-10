@@ -1,0 +1,15 @@
+Cahier des charges :
+
+
+-Versionning
+-
+-Présentation projet
+-Contexte projet
+-Expression besoin et contrainte (Notamment le délai)
+-Cas d'utilisation
+-Besoin et fonction à remplir sans contraintes technologiques(0 langage)
+-Délai et plannificaton du produit
+-Décris les livrables (Quel logiciel, quelles docs, etc)
+-Qui est MOA, qui est MOE et quand livrer
+Pas de gantt de pent
+Après expression fonctionnelle des besoins
