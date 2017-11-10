@@ -1,0 +1,77 @@
+
+Notes sur le projet et l'organisation des applicatif les un envers les autres.
+
+-> Back office :
+
+	- Qui sont les utilsateurs ? 
+	
+		* Techniciens
+		* Techniciens non connectés
+	
+	- Que doivent t'ils faire ?
+	
+		* Se logger dans le cas où ils ne l'ont pas fait
+		* Gérer les données de base :
+			- gestion d'ajout des produits
+			- gestion de modification des produits
+			- gestion de supprétion des produits
+			
+		* Recevoir le flux XML venant des Fournisseurs
+			- Analyser le flux 
+			- Si correct : 	-> Transformer en données API et le passer au Web Service
+			
+			
+-> Web Service :
+
+	- Qui sont les utilisateurs ? 
+	
+		* Visionneuse 
+		* Editeurs de logiciels
+		* Back Office (Assure le fournissage des données)
+		* Client non autentifié
+		
+	- Que doivent t'ils faire ?
+	
+		* Le Web Service devra être en mesure d'enregistrer un nouveau client 
+			- Page d'acceuil pour nouvel utilisateur
+			- Fournissage d'un identifiant correspondant au magasin
+		
+		* Recevoir les données du back office
+			- Reception données traitées
+			
+		* Afficher et rendre disponible les données
+			- Mise en page de L'API
+			
+		* Fournir les données
+			- A la base de données
+			- Au clients
+			- A la visionneuse
+			
+[...]
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
