@@ -11,6 +11,7 @@ Notes sur le projet et l'organisation des applicatif les un envers les autres.
 	- Que doivent t'ils faire ?
 	
 		* Se logger dans le cas où ils ne l'ont pas fait
+		
 		* Gérer les données de base :
 			- gestion d'ajout des produits
 			- gestion de modification des produits
@@ -46,8 +47,21 @@ Notes sur le projet et l'organisation des applicatif les un envers les autres.
 			- A la base de données
 			- Au clients
 			- A la visionneuse
-			
-[...]
+	
+	
+-> Visionneuse
+
+	- Qui sont les utilisateurs ?
+	
+		* Clients du magasin
+	
+	- Que doivent ils faire ?
+	
+		* Il peuvent parcourir les différentes pages de la visionneuse
+		* Obtenir des informations sur un produit 
+		* trier leur recherche
+		
+		
 		
 		
 		
