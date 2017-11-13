@@ -1,4 +1,4 @@
-
+﻿
 Notes sur le projet et l'organisation des applicatif les un envers les autres.
 
 -> Back office :
@@ -37,8 +37,6 @@ Notes sur le projet et l'organisation des applicatif les un envers les autres.
 			- Page d'acceuil pour nouvel utilisateur
 			- Fournissage d'un identifiant correspondant au magasin
 		
-		* Recevoir les données du back office
-			- Reception données traitées
 			
 		* Afficher et rendre disponible les données
 			- Mise en page de L'API
@@ -48,6 +46,7 @@ Notes sur le projet et l'organisation des applicatif les un envers les autres.
 			- Au clients
 			- A la visionneuse
 	
+		* Recoit les données XML des fournisseurs, les analyses et les insère en base
 	
 -> Visionneuse
 
